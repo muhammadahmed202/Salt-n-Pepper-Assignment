@@ -1,0 +1,136 @@
+.background{
+    
+    background-color: #000;
+    color: white;
+    height: 100px;
+    padding: 10px 50px;
+    
+}
+.logo{
+    width: 30%;
+    display: inline-block;
+    
+    vertical-align: middle;
+}
+.right-side{
+    display: inline-block;
+    width: 60%;
+    vertical-align: baseline;
+    text-align: right;
+}
+.menu>li{
+    display: inline-block;
+    color: #fff;
+    padding: 10px;
+}
+.menu{
+    /* display: inline-block; */
+}
+body{
+    margin: 0px;
+}
+.btns>button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+}
+.btn-one{
+    background-color: black;
+    color: white;
+    border: 1px solid white !important;
+    
+}
+.btn-two{
+    background-color: red;
+    color: #fff;
+   
+    
+}
+.btns,.menu{
+   
+    display: inline-block;
+}
+@font-face {
+    font-family: My font;
+    src: url(fonts/futurak\ \(1\)\ \(2\).ttf);
+}
+.font{
+    font-family: My font;
+}
+.intro{
+    text-align: center;
+}
+.img{
+    background-color:white;
+    margin: 30px;
+    width: 300px;
+    height: 150px;
+}
+.intro-imgs{
+    display: inline-block;
+    
+}
+.intro-btns{
+    width: 300px;
+    margin-top: 10px;
+    text-align: center;
+}
+.intro-btns>button{
+    border: none;
+    padding: 15px 50px;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    border: 1px solid white !important;
+
+    /* text-align: center; */
+}
+.img-1{
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    padding: 50px;
+}
+ .img-2{
+        width: 300px;
+        height: 150px;
+        display: inline-block;
+        padding: 50px;
+}
+.img-3{
+        width: 300px;
+        height: 150px;
+        display: inline-block;
+        padding: 50px;
+    }
+#size{
+    font-size:52px;
+}
+.image{
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+.footer{
+    margin-top: 120px;
+    text-align: left;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    display: flex;
+}
+.list{
+    list-style-type: none;
+    margin-left: -40px;
+}
+.footer-1{
+    margin-left: 50px;
+}
+.footer-2{
+    margin-left: 100px;
+}
+.footer-3{
+   margin-left: 60px; 
+}
+.small{
+    color: #ED1C24;
+}
+
